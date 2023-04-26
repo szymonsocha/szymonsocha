@@ -1,24 +1,9 @@
-# Hello!
+## Hello!
 
 I'm fascinated by studying and exploring Machine Learning in every possible way, mainly Natural Language Processing (NLP). \
-In my final year of master's studies in Data Science and Business Analytics.
+In my final year of master's studies in Data Science and Business Analytics 🤓
 
 Some of my projects:
 * [Neural Network Performance Comparison](https://github.com/szymonsocha/ml-deep-learning-neural-network)
 * [Traffic Prediction](https://github.com/szymonsocha/ml-regression-random-forest)
 * [Option Pricing Rcpp Package](https://github.com/szymonsocha/monte-carlo-option-pricing)
-
-<!--
-**szymonsocha/szymonsocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
