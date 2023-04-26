@@ -3,13 +3,13 @@
 I'm fascinated by studying and exploring Machine Learning in every possible way, mainly Natural Language Processing (NLP). \
 In my final year of master's studies in Data Science and Business Analytics.
 
-#### :mortar_board: Some of my projects :
+### :mortar_board: Some of my projects :
 * [Neural Network Performance Comparison](https://github.com/szymonsocha/ml-deep-learning-neural-network)
 * [Traffic Prediction](https://github.com/szymonsocha/ml-regression-random-forest)
 * [Option Pricing Rcpp Package](https://github.com/szymonsocha/monte-carlo-option-pricing)
 
 
-#### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
